@@ -1,6 +1,6 @@
 body {
-  max-width: 44em;
-  margin: 0 auto;
-  font-size: 22px;
+  max-width: 44em !important;
+  margin: 0 auto !important;
+  font-size: 22px !important;
   background: none !important;
 }
